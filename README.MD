@@ -1,10 +1,13 @@
 *** Les Layouts
 
 1 - Changer le ConstraintLayout par un FrameLayout dans le code XML
+
     Voir la différence de position
     Faire le tour des attributs bg, margin, padding ....
+
 2 - En profiter pour faire le tour des views en plus
 3 - La cardView 
+
     Modification depuis le xml 
     Ajout de composants dans le Cardview en expliquant les chevrons du XML
 4 - Le Linear Vertical
